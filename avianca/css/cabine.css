@@ -1,0 +1,20 @@
+.containerOptionCabine{
+    box-shadow: 0 0 1px #919ba624, 0 0 1px #919ba61f,
+    0 0 3px #919ba633;
+    flex-direction: column;
+    border-radius: 8px;
+    width: 93%;
+    background-color: white;
+    height: auto;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.headerOPc{
+    font-family: "lato";
+    font-size: 22px;
+    letter-spacing: 0;
+    margin-right: 0;
+    width: 100%;
+    text-align: center;
+}

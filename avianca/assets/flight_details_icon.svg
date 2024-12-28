@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-Flight_details_icon">
+      <rect width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="Flight_details_icon" data-name="Flight details_icon" clip-path="url(#clip-Flight_details_icon)">
+    <path id="Path_152" data-name="Path 152" d="M8.167,13.167H9.834v-5H8.167ZM9,.667A8.333,8.333,0,1,0,17.334,9,8.336,8.336,0,0,0,9,.667Zm0,15A6.667,6.667,0,1,1,15.667,9,6.675,6.675,0,0,1,9,15.667ZM8.167,6.5H9.834V4.833H8.167Z" transform="translate(1 1)" fill="#323237" fill-rule="evenodd"/>
+  </g>
+</svg>

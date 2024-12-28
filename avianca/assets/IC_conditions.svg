@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-IC_conditions">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="IC_conditions" clip-path="url(#clip-IC_conditions)">
+    <g id="mask0" transform="translate(-400.2 -459.117)">
+      <path id="Path_97" data-name="Path 97" d="M404.7,469.117a1.5,1.5,0,1,0,1.5,1.5A1.5,1.5,0,0,0,404.7,469.117Zm0-6a1.5,1.5,0,1,0,1.5,1.5A1.5,1.5,0,0,0,404.7,463.117Zm0,12.17a1.33,1.33,0,1,0,1.33,1.33A1.329,1.329,0,0,0,404.7,475.287Zm3,2.33h14v-2h-14Zm0-6h14v-2h-14Zm0-8v2h14v-2Z" transform="translate(-0.25 0.585)" fill="#1b1b1b" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
